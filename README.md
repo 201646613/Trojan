@@ -24,4 +24,4 @@ cmd shell  代码执行 已实现 </br>
 uplaod     文件上传 </br>
 download   文件下载 </br>
 exec       文件执行 </br>
-
+curl       网页文件下载 </br>
